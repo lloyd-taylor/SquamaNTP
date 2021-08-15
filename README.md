@@ -9,4 +9,4 @@ Wiring is straightforward: Plug Squama Board into Display using Grove Cable.  Pl
 
 IMPORTANT: Do NOT connect USB power to board if ethernet is plugged into a PoE switchport.  Unexpected results (incuding frying your computer or the Squama Board) may result with two separate power feeds!
 
-Either plug the Squama board into a NON-PoE Port on your switch during development, or use a power-switched USB hub between youcomputer and the Squama board. 
+Either plug the Squama board into a NON-PoE Port on your switch during development, or use a power-switched USB hub between your computer and the Squama board. 
